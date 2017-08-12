@@ -1,0 +1,2 @@
+class CallbackTest < ApplicationRecord
+end
